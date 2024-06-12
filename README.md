@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-kotlin-dev&show_icons=true&locale=en&layout=compact" alt="ayush-kotlin-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-kotlin-dev&show_icons=true&locale=en" alt="ayush-kotlin-dev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-kotlin-dev&" alt="ayush-kotlin-dev" /></p>
