@@ -4,7 +4,7 @@
   <img src="https://github.com/Ayush-Kotlin-Dev/profilereadme/blob/main/android.gif" alt="Your GIF Image" width="300" height="300">
 </p>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/Ayush-Kotlin-Dev/InstaU---Frontend-Android-App)
+- 🔭 I’m currently working on [Gym Fitness App ](https://github.com/Ayush-Kotlin-Dev/FitnessApp_For_Gym)
 
 - 🌱 I’m currently learning **Ktor and Advanced Architecture for Android development**
 
