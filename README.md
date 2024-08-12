@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi , I'm Ayush</h1>
 <h3 align="center">A passionate Android Developer</h3>
 <p align="center">
   <img src="https://github.com/Ayush-Kotlin-Dev/profilereadme/blob/main/android.gif" alt="Your GIF Image" width="300" height="300">
